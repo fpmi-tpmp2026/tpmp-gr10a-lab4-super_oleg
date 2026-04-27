@@ -15,8 +15,7 @@ cmake --build build
 
 # Использование
 
-```
-bash
+```bash
 ./build/fishing_fleet
 ```
 # Contributing
