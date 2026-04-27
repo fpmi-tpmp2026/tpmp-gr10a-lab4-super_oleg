@@ -13,7 +13,7 @@ cmake -B build
 cmake --build build
 ```
 
-# Usage
+# Использование
 
 ```
 bash
